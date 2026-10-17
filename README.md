@@ -13,7 +13,7 @@ The Heater Drill recipe is available without a technology prerequisite:
 
 - 5 iron gear wheels
 - 10 iron plates
-- 10 heat pipes
+- 2 heat pipes
 
 ## Using the Heater Drill
 

@@ -50,7 +50,7 @@ local heaterDrillRecipe = {
   ingredients = {
     {type = "item", name = "iron-gear-wheel", amount = 5},
     {type = "item", name = "iron-plate", amount = 10},
-    {type = "item", name = "heat-pipe", amount = 10}
+    {type = "item", name = "heat-pipe", amount = 2}
   },
   results = {{type = "item", name = "heater-drill", amount = 1}}
 }
