@@ -17,4 +17,4 @@ The Heater Drill recipe is available without a technology prerequisite:
 
 ## Using the Heater Drill
 
-Place the drill over a mineable resource patch, then connect a heat network to one of its heat connection points. The connection points are on the south, east, and west sides. The drill requires a heat temperature of at least 100°C and supports temperatures up to 1000°C.
+Place the drill over a mineable resource patch, then connect a heat network to one of its heat connection points. The connection points are on the south, east, and west sides. The drill requires a heat temperature of at least 100°C.
