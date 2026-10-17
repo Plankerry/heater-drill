@@ -1,9 +1,9 @@
 {
-  "name": "heater-miner",
-  "version": "0.1.0",
-  "title": "Heater Miner",
+  "name": "heater-drill",
+  "version": "1.0.0",
+  "title": "Heater Drill",
   "author": "Plankerry",
   "factorio_version": "2.0",
   "dependencies": [ "base >= 2.0" ],
-  "description": "This mod adds a miner which needs hot heat pipes to power it."
+  "description": "This mod adds a mining drill which needs heat to power it. It has connections on three sides."
 }
